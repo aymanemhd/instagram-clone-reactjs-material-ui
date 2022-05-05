@@ -1,0 +1,12 @@
+import './components/Navbar/Navbar'
+import './App.css';
+
+function App() {
+  return (
+    <div className="App">
+      <h1>helllo</h1>
+    </div>
+  );
+}
+
+export default App;
